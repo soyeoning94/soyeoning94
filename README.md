@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=66CCFF&height=300&section=header&text=My%20sea&fontSize=90&fontColor=E0FFFF)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=soyeoning94)](https://github.com/soyeoning94)
 
